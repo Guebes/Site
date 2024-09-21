@@ -74,6 +74,7 @@ header ul li:hover {
     font-size: 20px;
     margin-top: 10px;
     margin-left: 47px;
+    margin-right: 90px;
 }
 
 .sobree img {
@@ -179,6 +180,11 @@ footer textarea {
 .autor h3 {
 
     margin-left: 10px;
+}
+
+.contato button{
+
+    cursor: pointer;
 }
 
 
